@@ -1,0 +1,27 @@
+<div class="container">
+
+  <nav class="heading-nav">
+    <ul>
+      <li>
+        Chapters
+        <ul>
+          {{ $currentPage := . }}
+          {{ range .Site.Menus.chapters }}
+          <li><a class="sidebar-nav-item{{if or ($currentPage.IsMenuCurrent "chapters" .) ($currentPage.HasMenuCurrent "chapters" .) }} active{{end}}" href="{{ .URL }}" title="{{ .Title }}">{{ .Name }}</a></li>
+          {{ end }}
+        </ul>
+      </li>
+      <li>
+        Annexes
+        <ul>
+          {{ $currentPage := . }}
+          {{ range .Site.Menus.annexes }}
+          <li><a class="sidebar-nav-item{{if or ($currentPage.IsMenuCurrent "annexes" .) ($currentPage.HasMenuCurrent "annexes" .) }} active{{end}}" href="{{ .URL }}" title="{{ .Title }}">{{ .Name }}</a></li>
+          {{ end }}
+        </ul>
+      </li>
+    </ul>
+    
+  </nav>
+
+</div>
