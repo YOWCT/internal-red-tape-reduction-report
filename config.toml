@@ -1,0 +1,18 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Internal Red Tape Reduction Report"
+
+[params]
+  author = "Blueprint 2020 Internal Red Tape Reduction Tiger Team"
+  description = "Simplifying internal processes and reducing internal red tape is one of five priority areas to transform the federal public service. Released under the Access to Information Act."
+
+[sitemap]
+    changefreq = "weekly"
+    priority = 0.5
+
+[permalinks]
+  posts = "/:year/:month/:day/:slug/"
+  pages = "/:slug/"
+
+[blackfriday]
+  fractions = false
