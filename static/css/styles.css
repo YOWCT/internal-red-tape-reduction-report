@@ -1,0 +1,10 @@
+/* 
+Styles for the Internal Red Tape Reduction Report website
+
+An Ottawa Civic Tech project
+https://ottawacivictech.ca/
+ */
+
+.heading-nav a.active {
+  font-weight: bold;
+}
