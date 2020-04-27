@@ -1,18 +1,22 @@
-<div class="container">
+<section id="nav">
 
-  <nav class="heading-nav">
-    <ul>
-      <li><a class="sidebar-nav-item{{ if not (.Params.slug) }} active{{end}}" href="/" title="Home">Executive Summary</a></li>
-      {{ $currentPage := . }}
-      {{ range .Site.Menus.chapters }}
-      <li><a class="sidebar-nav-item{{if or ($currentPage.IsMenuCurrent "chapters" .) ($currentPage.HasMenuCurrent "chapters" .) }} active{{end}}" href="{{ .URL }}" title="{{ .Title }}">{{ .Name }}</a></li>
-      {{ end }}
-      {{ $currentPage := . }}
-      {{ range .Site.Menus.annexes }}
-      <li><a class="sidebar-nav-item{{if or ($currentPage.IsMenuCurrent "annexes" .) ($currentPage.HasMenuCurrent "annexes" .) }} active{{end}}" href="{{ .URL }}" title="{{ .Title }}">{{ .Name }}</a></li>
-      {{ end }}
-    </ul>
-    
-  </nav>
+  <div class="container">
 
-</div>
+    <nav class="heading-nav">
+      <ul>
+        <li><a class="sidebar-nav-item{{ if not (.Params.slug) }} active{{end}}" href="/" title="Home">Executive Summary</a></li>
+        {{ $currentPage := . }}
+        {{ range .Site.Menus.chapters }}
+        <li><a class="sidebar-nav-item{{if or ($currentPage.IsMenuCurrent "chapters" .) ($currentPage.HasMenuCurrent "chapters" .) }} active{{end}}" href="{{ .URL }}" title="{{ .Title }}">{{ .Name }}</a></li>
+        {{ end }}
+        {{ $currentPage := . }}
+        {{ range .Site.Menus.annexes }}
+        <li><a class="sidebar-nav-item{{if or ($currentPage.IsMenuCurrent "annexes" .) ($currentPage.HasMenuCurrent "annexes" .) }} active{{end}}" href="{{ .URL }}" title="{{ .Title }}">{{ .Name }}</a></li>
+        {{ end }}
+      </ul>
+      
+    </nav>
+
+  </div>
+  
+</section>

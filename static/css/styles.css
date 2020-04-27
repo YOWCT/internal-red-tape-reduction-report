@@ -8,3 +8,52 @@ https://ottawacivictech.ca/
 .heading-nav a.active {
   font-weight: bold;
 }
+
+#header {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+}
+
+#header h1 {
+  font-size: 3rem;
+}
+
+#nav {
+  margin-bottom: 1.5rem;
+}
+
+#main h2, #main h3, #main h4, #main h5, #main h6 {
+  margin-bottom: 1.2rem;
+}
+
+#main h2 {
+  font-size: 2.4rem;
+}
+#main h3 {
+  font-size: 2.2rem;
+}
+#main h4 {
+  font-size: 1.8rem;
+}
+#main h5 {
+  font-size: 1.4rem;
+}
+#main h6 {
+  font-size: 1.2rem;
+}
+
+#main p, #main blockquote, #main ul, #main ol {
+  font-size: 1.1rem;
+  font-kerning: normal;
+  text-rendering: optimizeLegibility;
+  line-height: 1.6;
+  
+
+  max-width: 54rem;
+  margin: 0 auto;
+  margin-bottom: 1.2rem;
+}
+
+#main blockquote {
+  padding-left: 2rem;
+}
