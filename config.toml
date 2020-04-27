@@ -1,6 +1,7 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
 title = "Internal Red Tape Reduction Report"
+googleAnalytics = "UA-164662709-1"
 
 [params]
   author = "Blueprint 2020 Internal Red Tape Reduction Tiger Team"
