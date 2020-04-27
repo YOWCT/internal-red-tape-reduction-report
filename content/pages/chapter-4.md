@@ -7,7 +7,7 @@ summary: ""
 images: []
 menu:
   chapters:
-    weight: 4
+    weight: 5
 ---
 
 The work of the Tiger Team is also a story of discovery. The Tiger Team adopted new approaches and new tools to identify problems and design solutions. Through social media and in-person dialogue, as well as surveys, the team journeyed with public servants across the country to unravel internal red tape. At times, the work seemed daunting, as the team had to manage the demand for quick and definitive outcomes when the issues still seemed nebulous and the project deadline was fast approaching. Nevertheless, with support from senior management and public servants, the team was able to stay the course. Along the way, commonly held assumptions were challenged and new insights were gained.

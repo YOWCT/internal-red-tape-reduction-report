@@ -6,8 +6,8 @@ draft: false
 summary: ""
 images: []
 menu:
-  annexes:
-    weight: 1
+  chapters:
+    weight: 6
 ---
 
 ### Unravelling red rape with design-thinking

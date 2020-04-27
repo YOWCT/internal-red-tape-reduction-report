@@ -6,8 +6,8 @@ draft: false
 summary: ""
 images: []
 menu:
-  annexes:
-    weight: 3
+  chapters:
+    weight: 8
 ---
 
 The findings from the Internal Red Tape Reduction initiative highlight poor client service as a major irritant for many public servants in their day-to-day work lives. Public servants told us that they experienced the following when accessing internal services:

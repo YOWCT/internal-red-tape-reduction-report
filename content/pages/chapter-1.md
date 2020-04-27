@@ -7,7 +7,7 @@ summary: ""
 images: []
 menu:
   chapters:
-    weight: 1
+    weight: 2
 ---
 
 In June 2013, Blueprint 2020 (BP2020) was launched, setting in motion an unprecedented engagement exercise with public servants about the future of the public service of Canada, with "the goal of ensuring that it remains a world class institution." During the dialogue that took place in the weeks following the launch of BP2020, public servants reported that...

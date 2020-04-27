@@ -2,6 +2,9 @@
 title: "Executive Summary"
 date: 2020-04-25T21:09:41-07:00
 draft: false
+menu:
+  chapters:
+    weight: 1
 ---
 
 During the Blueprint 2020 discussions, public servants reported that many rules and processes were overly complex, top-down and lacked coherence. Subsequently, simplifying internal processes and reducing internal red tape was identified as one of the five priority areas of action in Destination 2020. To this end, a small muiti-d;scipi;nary Tiger Team was established at the Treasury Board Secretariat (TBS) to engage public servants from the "bottom up" using social media and roundtables to identify the common irritants and to design solutions to address them. The diagram, "The Internal Red Tape Story," provides a snapshot of what the team accomplished over the two-year span of the initiative by adopting a user-centric design-thinking approach. This report presents key findings and recommendations that reflect the voices of public servants.

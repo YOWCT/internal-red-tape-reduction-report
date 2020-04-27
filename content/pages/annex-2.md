@@ -6,8 +6,8 @@ draft: false
 summary: ""
 images: []
 menu:
-  annexes:
-    weight: 2
+  chapters:
+    weight: 7
 ---
 
 ### Snapshot:  Getting IT help
