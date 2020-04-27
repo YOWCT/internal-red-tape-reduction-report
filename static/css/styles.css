@@ -10,6 +10,7 @@ https://ottawacivictech.ca/
 }
 
 #header {
+  margin-top: 1.5rem;
   padding-top: 1rem;
   padding-bottom: 1rem;
 }
@@ -19,7 +20,21 @@ https://ottawacivictech.ca/
 }
 
 #nav {
+  padding-top: 1.5rem;
+  padding-bottom: 0.5rem;
+  background-color: #efeff0;
+  border-color: #e2e3e5;
+  border-top: 1px solid #e2e3e5;
+  border-bottom: 1px solid #e2e3e5;
   margin-bottom: 1.5rem;
+}
+
+#footer {
+  margin-top: 2rem;
+  padding-top: 1.5rem;
+  padding-bottom: 1.0rem;
+  border-top: 1px solid #e2e3e5;
+  background-color: #efeff0;
 }
 
 #main h2, #main h3, #main h4, #main h5, #main h6 {
@@ -44,14 +59,15 @@ https://ottawacivictech.ca/
 
 #main p, #main blockquote, #main ul, #main ol {
   font-size: 1.1rem;
+  font-size: 18px;
   font-kerning: normal;
   text-rendering: optimizeLegibility;
-  line-height: 1.6;
+  line-height: 1.65;
   
 
-  max-width: 54rem;
+  max-width: 53rem;
   margin: 0 auto;
-  margin-bottom: 1.2rem;
+  margin-bottom: 1.3rem;
 }
 
 #main blockquote {
