@@ -1,0 +1,17 @@
+{
+  "name": "internal-red-tape-reduction-report",
+  "version": "1.0.0",
+  "description": "Blueprint 2020 report: Cutting Internal Red Tape – Building a Service Culture. Released under the Access to Information Act.",
+  "repository": "YOWCT/internal-red-tape-reduction-report",
+  "main": "index.js",
+  "scripts": {
+    "build": "npm run build:hugo",
+    "build:hugo": "hugo -D -v",
+    "deploy": "npm run build && gh-pages -d public -r git@github.com:internal-red-tape-reduction-report/internal-red-tape-reduction-report.github.io.git -b master"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "gh-pages": "^2.2.0"
+  }
+}
