@@ -23,7 +23,11 @@ A small multi-disciplinary Tiger Team was established at TBS in the summer of 20
 ### Project tin1eHne
 
 Launched in November 2014, the internal red tape reduction (IRTR) initiative consisted of two phases:
-1) engaging public servants to identify the biggest irritants; and 2) exposing root causes in a few areas with relevant departments and agencies. The broad engagement exercise reached more than 2,000 public servants across the country through discussions and workshops, both online and in person. These interactions helped identify the nature of red tape and where it occurred most often. The results were shared during the first national webcast on internal red tape reduction, hosted by the Secretary of the Treasury Board with deputies from partnering departments in April 2015.
+
+1. engaging public servants to identify the biggest irritants; and 
+2. exposing root causes in a few areas with relevant departments and agencies. 
+
+The broad engagement exercise reached more than 2,000 public servants across the country through discussions and workshops, both online and in person. These interactions helped identify the nature of red tape and where it occurred most often. The results were shared during the first national webcast on internal red tape reduction, hosted by the Secretary of the Treasury Board with deputies from partnering departments in April 2015.
 
 During the webcast, public servants were asked to identify the top three areas where reducing red tape could improve their experiences in a tangible way. Staffing, procurement, and grants and contributions were the most mentioned areas. Subsequently, the Tiger Team convened an interdepartmental forum with a focus on these three areas. Seventy-two individuals from 26 departments and agencies attended this one-day event, where they got to share their current work in any of these three areas and collaborated on solutions by applying design-thinking tools. Following the forum, three interdepartmental working groups were formed. Over eight weeks, each team delved further into one of
 the three areas with a view to exposing the root causes and ideating  solutions.  The  diagram,  uEngagernent of Publ:c: Servants at a Glance," illustrates what was accomplished through the project. A step-by-step description of the initiative can be found at the end of this report.
