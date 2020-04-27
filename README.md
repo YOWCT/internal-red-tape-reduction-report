@@ -1,6 +1,6 @@
 # Internal Red Tape Reduction Report
 
-This repository powers a web version of the Blueprint 2020 report: _Cutting Internal Red Tape – Building a Service Culture_.
+This repository powers [a web version of the Blueprint 2020 report: _Cutting Internal Red Tape – Building a Service Culture_](https://internal-red-tape-reduction-report.github.io/).
 
 ## Usage instructions
 
