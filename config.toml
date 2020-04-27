@@ -16,3 +16,11 @@ title = "Internal Red Tape Reduction Report"
 
 [blackfriday]
   fractions = false
+
+[markup]
+  defaultMarkdownHandler = "goldmark"
+
+  [markup.tableOfContents]
+    endLevel = 4
+    ordered = false
+    startLevel = 3
