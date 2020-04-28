@@ -1,31 +1,33 @@
 <!-- Prev / Next Post -->
 <!-- Thanks to https://remotesynthesis.com/blog/hugo-tips-tricks#nextprevious-page-navigation -->
-<nav class="entry-navigation">
+<nav class="entry-navigation mt-5">
   <div class="row">
     <div class="col-md-6">
       {{ if ne .PrevInSection  nil }}
-      <div class="entry-navigation--left">
-        <i class="ui-arrow-left"></i>
-        <span class="entry-navigation__label">Previous</span>
-        <div class="entry-navigation__link">
         {{ with .PrevInSection }}
-        <a href="{{.Permalink}}" rel="next">{{ .Title }}</a>
+          <a href="{{.Permalink}}" class="btn btn-outline-primary my-2" rel="prev">&laquo; {{ .Title }}</a>
         {{ end }}
-        </div>
-      </div>
+      {{ else }}
+        {{ if ( .Params.slug) }}
+          <!-- On Ch. 1 - add manual link back to homepage -->
+          {{ range first 1 (after 0 .Site.Menus.chapters) }}
+            <a href="{{ .URL }}" class="btn btn-outline-primary my-2" rel="prev">&laquo; {{ .Title }}</a>
+          {{ end }}
+        {{ end }}
       {{ end }}
     </div>
     <div class="col-md-6 text-right">
       {{ if ne .NextInSection  nil }}
-      <div class="entry-navigation--right">
-        <span class="entry-navigation__label">Next</span>
-        <i class="ui-arrow-right"></i>
-        <div class="entry-navigation__link">
         {{ with .NextInSection }}
-        <a href="{{ .Permalink }}" rel="prev">{{ .Title }}</a>
+          <a href="{{ .Permalink }}" class="btn btn-outline-primary my-2" rel="next">{{ .Title }} &raquo;</a>
         {{ end }}
-        </div>
-      </div>
+      {{ else }}
+        {{ if not ( .Params.slug) }}
+          <!-- On the homepage - add manual link to Ch. 1 -->
+          {{ range first 1 (after 1 .Site.Menus.chapters) }}
+            <a href="{{ .URL }}" class="btn btn-outline-primary my-2" rel="next">{{ .Title }} &raquo;</a>
+          {{ end }}
+        {{ end }}
       {{ end }}
     </div>
   </div>
