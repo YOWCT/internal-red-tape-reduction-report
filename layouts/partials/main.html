@@ -5,7 +5,7 @@
     <h2 class="section-heading">{{ .Title }}</h2>
 
     {{ if and (gt .WordCount 600 ) }}
-      <aside>
+      <aside class="d-print-none">
         {{.TableOfContents}}
       </aside>
     {{ end }}

@@ -1,14 +1,14 @@
 <section id="footer">
 
   <div class="container">
-    <aside>
+    <aside class="d-print-none">
 
       <div class="row">
         <div class="col-md-6">
           <a href="/" class="btn btn-outline-primary">Home</a>
         </div>
         <div class="col-md-6 text-right">
-          <a href="#" class="btn btn-outline-primary">Back to top</a>
+          <button class="btn btn-outline-primary irt-print-current">Print this page</button> &nbsp;<a href="#" class="btn btn-outline-primary">Back to top</a>
         </div>
       </div>
 
@@ -22,6 +22,14 @@
         
       <p>An <a href="https://ottawacivictech.ca/">Ottawa Civic Tech project</a>.</p>
     </aside>
+
+    <aside class="d-none d-print-block">
+      <p>Published in September 2016 by the Blueprint 2020 Internal Red Tape Reduction Tiger Team.</p>
+      <p>Document released under the Access to Information Act.</p>
+      <p>An Ottawa Civic Tech project.</p>
+      <p>{{ .Permalink | absURL }}</p>
+    </aside>
+
   </div>
 
 </section>
