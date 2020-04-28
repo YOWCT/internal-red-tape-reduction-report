@@ -31,3 +31,4 @@ Deeper dives into the underlying causes of internal red tape found broad repeati
 
 This report is structured as follows. Chapter 1 sets the context for the initiative. Chapter 2 describes the characteristics of internal red tape and proposed solutions to address them. Chapter 3 centres on the root causes of red tape in three areas. Ch:Jpl:er 4 offers some lessons learned from the initiative. The engagement process, tools used in the initiative, snapshots of internal red tape stories and a service strategy for internal services are in the 1-\nnex.
 
+{{< reportimage title="The Internal Red Tape Story" src="005.jpg" alt="An infographic describing what we did, what is red tape, where is red tape, and what we are doing." >}}
