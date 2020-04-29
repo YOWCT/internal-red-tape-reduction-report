@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://internal-red-tape-reduction-report.github.io/"
 languageCode = "en-us"
 title = "Internal Red Tape Reduction Report"
 googleAnalytics = "UA-164662709-1"
