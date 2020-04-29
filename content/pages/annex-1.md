@@ -92,6 +92,8 @@ edge.com/ methods/the-f utu re-backwards/.
 
 **Note to reader:** This exercise is best accomplished by writing down your ideas on sticky notes and putting them up on a board or a wall. This way, the stickies can be moved around at your leisure.
 
+{{< reportimage title="Process mapping sticky notes" src="063.jpg" alt="" >}}
+
 The design of this exercise generates better results by implementing the "business origami" approach. More information on this approach is available at:
 https://experie nee.sap.com/ski!iup/business­
 origamf/_
@@ -99,6 +101,8 @@ origamf/_
 It uses paper cut-outs for actors, requirements, channels and other actions, which adds more depth and richness to the conversation. It is also important to capture any questions that the group encounters so that they can be added to the user interviews (to be explained in another section).
 
 Completing this activity will yield  the  first draft of the chosen process or service and a series of interview questions. It is important to note that conducting outside research, such as literary reviews, service audits and user interviews, will refine this output throughout the process.
+
+{{< reportimage title="Process mapping refinement" src="064.jpg" alt="" >}}
 
 **Stakellol<ler rnappi,ig:** After gaining an understanding of the process, the objective was then to scope out the current status of the process by identifying all of the players or stakeholders involved in making their system work.
 
@@ -178,112 +182,125 @@ http://diytoolkit.org/tools/thinking-hats-2/, http://diytoolkit.org/tools/innova
 
 #### PHASE 1 TIGER TEAM
 
-Jean Kunz - Director
-
-Sage Cram - User-centered Design Specialist
-
-Blaise Hebert - Engagement & Facilitation Specialist
-
-Stacey lleleji -Senior Analyst
-
-Kris Nanda - Senior Policy Advisor
-
-Neetesha Patel -Junior Analyst
-
-Lori Steele -Graphic Designer
+* Jean Kunz - Director
+* Sage Cram - User-centered Design Specialist
+* Blaise Hebert - Engagement & Facilitation Specialist
+* Stacey lleleji - Senior Analyst
+* Kris Nanda - Senior Policy Advisor
+* Neetesha Patel - Junior Analyst
+* Lori Steele - Graphic Designer
 
 #### PHASE 2 TIGER TEAM
 
-Anne Casault - Senior Director
-
-Sage Cram - Lead Facilitator- Low Dollar Value Procurement stream
-
-Muna Idris - Senior Analyst - Low Dollar Value Procurement stream
-
-Blaise Hebert - Lead Facilitator- Staffing stream
-
-Luisa Wang- Senior Analyst - Staffing stream
-
-Joel Bourgeoys - Co-facilitator-Staffing stream
-
-Stacey lleleji - Lead Facilitator-Grants and Contributions stream
-
-Neetesha Patel - Co-facilitator-Grants and Contributions stream
-
-Denise Wild -Senior Analyst -Grants and Contributions stream
-
-Lori Steele - Graphic Designer
-
-Marie Blythe-Hallman - Senior Advisor and Lead Writer
+* Anne Casault - Senior Director
+* Sage Cram - Lead Facilitator - Low Dollar Value Procurement stream
+* Muna Idris - Senior Analyst - Low Dollar Value Procurement stream
+* Blaise Hebert - Lead Facilitator - Staffing stream
+* Luisa Wang - Senior Analyst - Staffing stream
+* Joel Bourgeoys - Co-facilitator - Staffing stream
+* Stacey lleleji - Lead Facilitator - Grants and Contributions stream
+* Neetesha Patel - Co-facilitator - Grants and Contributions stream
+* Denise Wild - Senior Analyst - Grants and Contributions stream
+* Lori Steele - Graphic Designer
+* Marie Blythe-Hallman - Senior Advisor and Lead Writer
 
 #### WEBCAST 2 MODERATOR AND TODD-CAST SESSIONS
 
-
-Todd Lyons
+* Todd Lyons
 
 #### Interdepartmental Working Group participants
 
 ##### STAFFING
 
 IMMIGRATION, REFUGEES AND CITIZENSHIP CANADA
-Farahldine Boisclair Sylvain Decotret Tandice Wiwchar Paul Laflamme
+
+* Farahldine Boisclair 
+* Sylvain Decotret 
+* Tandice Wiwchar 
+* Paul Laflamme
 
 PUBLIC SERVICES AND PROCUREMENT CANADA
-Mia Pham-Huy Riaz Kara
+
+* Mia Pham-Huy 
+* Riaz Kara
 
 NATURAL RESOURCES CANADA
-Lynn Millross Christine Tanious
-Marie-Christine Brochu
+
+* Lynn Millross 
+* Christine Tanious
+* Marie-Christine Brochu
 
 FISHERIES AND OCEANS CANADA
-Francine Seguin Matthew Pringle
+
+* Francine Seguin 
+* Matthew Pringle
 
 PUBLIC SERVICE COMMISSION
-Luc Savard
+
+* Luc Savard
 
 TREASURY BOARD SECRETARIAT
-Melanie Beck Hazel Wong
+* Melanie Beck 
+* Hazel Wong
 
 ##### LOW DOLLAR VALUE PROCUREMENT
 
 AGRICULTURE AND AGRI-FOOD CANADA
-Lorraine Burnett Parker Kennedy
+
+* Lorraine Burnett 
+* Parker Kennedy
 
 FISHERIES AND OCEANS CANADA
-Kathrine Abrams
+
+* Kathrine Abrams
 
 DEPARTMENT OF NATIONAL DEFENCE
-Michelle Grant
-Yves Joanisse
+
+* Michelle Grant
+* Yves Joanisse
 
 INFRASTRUCTURE CANADA
-Lise Marquise Erin Massey
+
+* Lise Marquise 
+* Erin Massey
 
 TRANSPORT CANADA
-Adriana Mastrostefano Robin Ambrose
+
+* Adriana Mastrostefano 
+* Robin Ambrose
 
 PUBLIC SERVICES AND PROCUREMENT CANADA
-Kris Ruiter
+
+* Kris Ruiter
 
 TREASURY BOARD SECRETARIAT
-Danielle Aubin
+
+* Danielle Aubin
 
 ##### GRANTS AND CONTRIBUTIONS
 
 AGRICULTURE AND AGRI-FOOD CANADA
 
-Lynne Guerrette
+* Lynne Guerrette
 
 IMMIGRATION, REFUGEES AND CITIZENSHIP CANADA
-Daniel Sweet
+
+* Daniel Sweet
 
 FISHERIES AND OCEANS CANADA
-Richard Norenna Pauline Scharfe
+
+* Richard Norenna 
+* Pauline Scharfe
 
 INFRASTRUCTURE CANADA
-Christian Judd
+
+* Christian Judd
 
 CANADIAN HERITAGE
-Sean Sheehan Denis Laforest
+
+* Sean Sheehan 
+* Denis Laforest
+
 TREASURY BOARD SECRETARIAT
-Jonathan Sabean
+
+* Jonathan Sabean

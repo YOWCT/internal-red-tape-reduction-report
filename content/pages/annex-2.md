@@ -10,6 +10,8 @@ menu:
     weight: 7
 ---
 
+{{< reportimage title="Snapshot of your Internal Red Tape Stories" src="071.jpg" alt="" >}}
+
 ### Snapshot:  Getting IT help
 
 Requesting IT support is a task that most employees undertake from time to time. Employees' stories about getting IT help range from relatively straightforward requests, such as setting up a dual  monitor, to those that are more complex, like obtaining access to a closed network.

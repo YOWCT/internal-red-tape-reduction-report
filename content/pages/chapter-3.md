@@ -45,6 +45,8 @@ Finally, both functional specialists and clients reported being numb to the proc
 
 ### Procurement stream findings 
 
+{{< reportimage title="Procurement Stream Findings" src="020.jpg" alt="A heading image with “Procurement Stream Findings” overlaid on a twisting red tape graphic" >}}
+
 **Participating Departments**
 
 * Transport Canada 
@@ -57,8 +59,6 @@ Finally, both functional specialists and clients reported being numb to the proc
 
 * Office of the Comptroller General 
 * Public Services and Procurement Canada
-
-#### Procurement stream finding
 
 **Scope: Procurement of a low dollar value (LDV) service contract under $25,000**
 
@@ -74,7 +74,13 @@ Not including internal departmental policies and guidance, there are over 35 dif
 
 #### The problem: Low return on investment on low dollar value service contracts
 
-In general, procurement process steps are similar among departments and are already lean. Participants identified 11 common steps for a LDV service contract procurement, entitled "The Procurement Journey" In Service Design (Figu;·e 7). That said, an examination of the cost to a department of an LDV service contract in 2013 suggests that far too much time and effort is spent on implementing this type of contract. Using Purchasing Activity Report (PAR) data as well as estimated time (touch time and cycle time as per the Lean method) provided by participating departments, the cost (in$ and FTE time) of an average service contract in a department is as follows:
+In general, procurement process steps are similar among departments and are already lean. Participants identified 11 common steps for a LDV service contract procurement, entitled "The Procurement Journey" In Service Design (Figu;·e 7). That said, an examination of the cost to a department of an LDV service contract in 2013 suggests that far too much time and effort is spent on implementing this type of contract. 
+
+{{< reportimage title="Step 1: Identify Need" src="022-1.jpg" alt="" >}}
+
+Using Purchasing Activity Report (PAR) data as well as estimated time (touch time and cycle time as per the Lean method) provided by participating departments, the cost (in$ and FTE time) of an average service contract in a department is as follows:
+
+{{< reportimage title="Figure 4: Key Finding about the Average LDV Service Contract in a Department" src="022-2.jpg" alt="" >}}
 
 #### Root causes
 
@@ -122,7 +128,17 @@ While most transactions and documents are paper-based (among the participating d
 
 The Tiger Team is aware that Public Services and Procurement Canada (PSPC) is currently working on developing an Electronic Procurement Solution (EPS), ore-procurement, which, once fully rolled out, is expected to streamline the procurement process using a single portal. Thee-procurement system would be designed to support a procurement request from the needs identification phase through to contract award, with built-in templates and audit records, and to act as a single source of  truth for procurement in the Government of Canada and as a single source of disclosure for all provincial, municipal and federal awards. With this being a technological solution, it will be important that it receive ample user testing  and sufficient time and resources dedicated to its implementation.
 
+{{< reportimage title="Figure 5: Procurement Officer Persona" src="026.jpg" alt="" >}}
+
+{{< reportimage title="Figure 6: Manager Persona" src="027.jpg" alt="" >}}
+
+{{< reportimage title="Table 1: Acquired Services and Assets Current Policy Suite" src="028.jpg" alt="" >}}
+
+{{< reportimage title="Figure 7: The Procurement Journey in Service Design" src="029.jpg" alt="" >}}
+
 ### Staffing stream findings
+
+{{< reportimage title="Staffing Stream Findings" src="030.jpg" alt="A heading image with Staffing Stream Findings” overlaid on a twisting red tape graphic" >}}
 
 **Participating Departments**
 
@@ -136,15 +152,13 @@ The Tiger Team is aware that Public Services and Procurement Canada (PSPC) is cu
 * Public Service Commission of Canada 
 * Office of the Chief Human Resources Officer
 
-#### Staffing stream findings
-
 **Scope: Internal advertised staffing process with a national area of selection**
 
 #### Background
 
 Human resources management, particularly within the area of staffing, has undergone a  tremendous amount of change over the past decade in an effort to modernize and provide more flexibility.  Primary among these changes was the introduction of the Public Service Modernization Act (PSMA), which was passed into law in 2003 and enacted two major pieces of legislation: a new Public  Service  Labour Relations Act and a new Public Service Employment Act (PSEA). These legislative changes were intended to
 
-> "create a more flexible staffing framework to manage and support employees and to attract the best people, when and where they are needed; foster more collaborative labour-management relations to ensure a healthy and productive workplace; and clarify accountability for deputy heads and manage rs."
+> "create a more flexible staffing framework to manage and support employees and to attract the best people, when and where they are needed; foster more collaborative labour-management relations to ensure a healthy and productive workplace; and clarify accountability for deputy heads and managers."
 
 Significant investments were made across the public service to implement the new legislation, including changes to the machinery of government, the creation of new mechanisms and processes, and investments in training human resources staff and hiring managers. However, a review of the PSMA conducted in 2011 found that the federal public service still faces many of the same people management challenges it did before its introduction. The PSMA Review Team concluded that further legislative change would not be necessary. Rather, non-legislative changes, such as a sustained commitment to behaviour and culture change, offered greater promise. It further cautioned that, while new tools, processes, technology and organizations may also be required, they would not be sufficient on their own and could not substitute for real changes to behaviour. 
 
@@ -154,7 +168,11 @@ The Public Service Commission (PSC) has the mandate to promote and safeguard mer
 
 #### The problem: The process takes too long to complete
 
-The Working Group collaboratively mapped out the steps for an Internal Advertised Staffing Process (f',gure 8) with a National Area of Selection. A full-size version of the staffing process depicted to the left is available at the end of this section. On average, there are 50 to 75 steps in the internal staffing process, amounting to an average of 40 weeks to complete. Figure 8 provides the complete mapping of the Internal Staffing Process. As shown in the table below, many of the processes can be simplified through Lean methods.
+The Working Group collaboratively mapped out the steps for an Internal Advertised Staffing Process (f',gure 8) with a National Area of Selection. A full-size version of the staffing process depicted to the left is available at the end of this section. 
+
+{{< reportimage title="Internal Staffing Process" src="032.jpg" alt="" >}}
+
+On average, there are 50 to 75 steps in the internal staffing process, amounting to an average of 40 weeks to complete. Figure 8 provides the complete mapping of the Internal Staffing Process. As shown in the table below, many of the processes can be simplified through Lean methods.
 
 * Average time to staff = 40 weeks
 * Number of steps in the process = 50 to 75
@@ -174,6 +192,8 @@ According to the Working Group participants, the current rules provide enough fl
 Staffing is a complex policy area governed by a mix of rules ranging from legislation (both direct and indirect) to prescriptive policy guidance-an estimated minimum of 35 instruments, as listed in the table, not including related areas such as security clearance or procurement of services. However, when the Working Group conducted a ut.ask decornpositlon" exercise to gain a better understanding of the "drivers," or motivating factors, behind each action (or step) performed as part of an internal advertised selection process, very few actions were required by a rule. Instead, the majority of steps taken in a staffing process can be attributed to departmental practice, or are simply the result of how things have traditionally been done.
 
 One such step is the assessment process. Here, candidates are first assessed through their application, and then issued a written exam, followed by an oral exam, reference checks, and an interview. A great deal of discussion within the Working Group focused on why there needs to be so many layers of assessment, and whether this sequential, step-by-step approach is the best way to evaluate candidates or whether more global assessments would be more effective. The managers interviewed also stated that they would like to further explore the use of a candidate's past performance (e.g., performance management results) or on-the-job observations (e.g., in cases where someone has been acting in a position) to either replace or supplement traditional assessment methods.
+
+{{< reportimage title="Legislative and Policy Framework for Staffing" src="033.jpg" alt="" >}}
 
 ##### Lack of clarity about available tools and insufficient infrastructure
 
@@ -280,14 +300,13 @@ At the same time, departments are working to redesign their own organizational s
 
 Each of these projects offers an opportunity to apply the learnings gathered through the Internal Red Tape Reduction Initiative and to shift the incentives in the system to effect real behaviour change and, ultimately, strike the appropriate balance between control and the provision of the level and type of service that clients expect, including strategic advice.
 
+{{< reportimage title="Figure 8: Internal Staffing Process" src="040.jpg" alt="" >}}
 
-Staffing of Common Positions across the Public Se rvice14
+{{< reportimage title="Table 2: Staffing of Common Positions across the Public Service" src="041.jpg" alt="" >}}
 
-* In  2012-2013,  there  were  897  AS  internal  advertisements  which  counted  toward  the  6,974 AS staffing actions within the public service (includes advertised and non-advertised).
+{{< reportimage title="Appointments to and within the PS" src="042.jpg" alt="" >}}
 
-* In  2012-2013,  there  were  64  AS  external  advertisements  which  counted  towards  the  668 AS appointments to the public service (includes advertised and non-advertised).
-
-Table 3 List of Staffing-Related Acts, Regulations and Central Agency Policy Instruments
+##### Table 3: List of Staffing-Related Acts, Regulations and Central Agency Policy Instruments
 
 Acts (6)
 
@@ -341,6 +360,8 @@ TBS Policy Instruments (11)
 
 ### Grants & Contributions Stream Findings
 
+{{< reportimage title="Grants & Contributions Stream Findings" src="045.jpg" alt="A heading image with Grants & Contributions Stream Findings” overlaid on a twisting red tape graphic" >}}
+
 **Participating Departments**
 
 * Immigration, Refugees and Citizenship Canada 
@@ -348,8 +369,6 @@ TBS Policy Instruments (11)
 * Agriculture and Agri-Food Canada 
 * Canadian Heritage
 * Infrastructure Canada
-
-#### Grants and contribution stream findings
 
 **Scope: The grants and contributions process**
 
@@ -363,12 +382,15 @@ Projects funded through federal G&C agreements are diverse and have a direct imp
 
 The Tiger Team found that, in participating departments, every application, regardless of size, complexity, or history with the department, is assessed in exactly the same manner, with the same level of scrutiny. However, departments have been moving to a more risk-based approach, as requested by the policy on transfer payments. Canadian Heritage appears to be the most advanced in this regard, with a "triage" system in place that is applied upon receipt of the application in order to assess its complexity and the amount of time it will likely take to move through the process. Some of the participating departments indicated that a triage system could assist them in streamlining their process, and that they would be making a proposal to their senior management.
 
+{{< reportimage title="Step 2: Program Officer completes Triage" src="046.jpg" alt="" >}}
+
 #### Root causes
 
 ##### Additional safeguards with no value added to the process
 
-Additional safeguards with no value added to the process
-There are a number of mechanisms in place to safeguard taxpayer s1 resources.
+There are a number of mechanisms in place to safeguard taxpayers’ resources.
+
+{{< reportimage title="Step 7: Regional Review Committee and Step 8: Secretariat Review" src="047.jpg" alt="" >}}
 
 These mechanisms range from restricted delegated approval levels to the establishment of various review committees. Participants agree that having the appropriate safeguards in place is necessary to ensure that resources are properly accounted for and disbursed in a fair and transparent manner. However, there was consensus that, in many cases, additional safeguards do not add value to the process, and that it would be appropriate to review existing approval processes to determine whether streamlining is an option.
 
@@ -420,3 +442,14 @@ In the long term, the Working Group recommended that those involved in determini
 Treasury Board of Canada Secretariat (TBS), led by the Financial Management Transformation (FMT) Team (within the Office of the Comptroller General of Canada, (OCG)), embarked on a collaborative effort with G&C organizations  to  develop an enterprise solution that addresses issues around four key
 areas: increasing financial constraints, the continuing need for transparency, efficiency  gains,  and service delivery improvements. 2° Central to this initiative is a common business process model, developed   in   collaboration   with   TBS   partners   and   formally   endorsed   by   the   G&C   Assistant  Deputy Minister (ADM) committee, to aid in standardizing business practices and performance measurements and encouraging information sharing across departments. It is hoped that this enterprise tool will ultimately reduce duplication, increase efficiencies and improve consistency within the area of grants and contributions across the federal government. While the focus of this group is a technology-based solution, it is hoped that the findings from the G&C Working Group will provide insights into its development.
 
+{{< reportimage title="Figure 9 – The Agriculture Journey in Service Design" src="051.jpg" alt="" >}}
+
+{{< reportimage title="Figure 10 – Citizenship & Immigration Canada in Service Design" src="052.jpg" alt="" >}}
+
+{{< reportimage title="Figure 11 – Fisheries & Oceans Journey in Service Design" src="053.jpg" alt="" >}}
+
+{{< reportimage title="Figure 12 – Canadian Heritage in Service Design" src="054.jpg" alt="" >}}
+
+{{< reportimage title="Figure 13 – Infrastructure Journey in Service Design" src="055.jpg" alt="" >}}
+
+{{< reportimage title="Figure 14 – Program Officer Persona" src="056.jpg" alt="" >}}

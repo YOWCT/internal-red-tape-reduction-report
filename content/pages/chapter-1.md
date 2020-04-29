@@ -36,7 +36,6 @@ the three areas with a view to exposing the root causes and ideating  solutions.
 
 As shown in Figure 1, design-thinking puts users at the centre of a problem-solving process. To analyze a problem, this approach centres on understanding it from the perspective of users by listening to their points of view and developing the analysis with them. Once a problem is identified, it focuses on designing solutions with those who will be affected by the solutions instead of providing a solution for them. (See Figure 1.) The methodology for this initiative will be described in the Annex.
 
-Figure 1: The d5choo!/D-Sc:hool Design Thinking Process (frorn: wv,;w designthinkingbiog,cornh,vp­
-content/u p!oadsi2009i1OiDesign-thinking-process.p ng)
+{{< reportimage title="Figure 1: The d.school/D-School Design Thinking Process" src="007.jpg" alt="" >}}
 
-Figure 2: Engagement of Public Servants at a Glance
+{{< reportimage title="Figure 2: Engagement of Public Servants at a Glance" src="008.jpg" alt="" >}}

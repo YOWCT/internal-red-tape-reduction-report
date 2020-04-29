@@ -76,11 +76,19 @@ https://ottawacivictech.ca/
   background-color: #efeff0;
   max-width: 54rem;
   margin: 0 auto;
+  margin-bottom: 1.3rem;
 }
 
 #main .irt-image-title {
   font-weight: bold;
+  margin-top: 3px;
+  margin-bottom: 3px;
   font-size: 20px;
+  line-height: 26px;
+}
+
+#main .irt-image-img-container {
+  text-align: center;
 }
 
 #main blockquote {
