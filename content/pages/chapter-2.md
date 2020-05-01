@@ -18,6 +18,28 @@ A key element of the Engagement Phase was to listen to public servants at the wo
 
 In addition to describing the problems they encountered, public servants were asked how they would solve them in order to improve their experiences. Public servants were also asked whether some of the barriers (or "red tape") they experienced were being addressed in their respective organizations or within the public service. It became evident that many organizations were already undertaking initiatives to streamline processes internally. As a result, the Tiger Team broadened its scope to include surveying those activities taking place across government. Over 170 initiatives across 45 departments were collected.
 
+{{< reportaside >}}
+
+##### Voices of users
+
+###### Getting IT help
+
+> "We no longer know what our local IT does… I am not at all sure the ticket process is clear to them either… They don't seem to be aware of what ticket is theirs and what ticket is Shared Services'."
+
+###### Navigating myKey
+
+> "The actual myKEY transfer feels like IT limbo! The amount of time I spend explaining on the phone, sending emails is just mindboggling."
+
+###### Evaluating performance
+
+> "The process has unnecessary back-and-forth confirmation steps that drag a simple procedure into an hours-long ordeal."
+
+###### Booking travel
+
+> "The whole travel system is counter-intuitive, frustrating, time-consuming and demoralizing."
+
+{{< /reportaside >}}
+
 #### Internal red tape occurs in the tangential elements of day-to-day working life
 
 Public servants encountered barriers in the tangential elements of their day,  such  as  getting   iT  heip 1       filling  out  a   travei  request,  evaluating perforrnance,  and  accessing  e!ectronlc  systems  after  new software was introduced. Changing departn-ients was another major area where red tape was found, as this requires public servants to complete secudty Clearance forms and re··activate their myKEY, which gives them secure access to government   applications,   including  the   Compensation   Web Applications.
@@ -51,6 +73,28 @@ Many layers that contribute to red tape have been identified. By focusing on eac
 Public servants indicated that rules, policies and guidelines are unclear and difficult to find. As a result, departments apply their own interpretations, oftentimes not leveraging existing flexibilities and adding burden.
 
 As shown in the DNA of internal red tape graph, "unclear direction" and {(burdensome policies" are two of the most common barriers identified by public servants. If "unclear direction" is the  foundation of the irritants, this  is a clear indicator that we need to improve the ability of public servants to find rules, procedures and guidance. These must also be written in plain language, easy to interpret and, where applicable, accompanied by user guides and/or how-to videos.
+
+{{< reportaside >}}
+
+##### Voices of users
+
+###### Getting IT help
+
+> "The process of requesting IT help is impersonal, and quite often communication misfires and no one knows what is going on. I could happily do without it."
+
+###### Activating myKey
+
+> "Being told I had to manually save my myKEY somewhere to physically bring it over with me would have been a good thing to know when I specifically asked, ‘what do I need to do when I go on Secondment’ and was told ‘not much’."
+
+###### Staffing
+
+> "The staffing pools are not the problem; it is the process (or lack thereof) of hiring someone from a pool. The rules are different in every situation."
+
+###### Booking travel
+
+> "The HRG web app is not sophisticated enough. Not all of the buttons on the web pages work and each employee must discover this in turn. It could at least be improved with auto-fill functionality."
+
+{{< /reportaside >}}
 
 Policy is a broad topic that affects public servants in different ways. Through the broad-based consultations that the Internal Red Tape Tiger Team (Tiger Team) conducted, stories were gathered regarding strict policy and the impact it has on public servants in their day-to-day operations. It affects everyone in different capacities: at a departmental level, through various occupational groups, and from a regional and National Capital scope. Policy in the federal government is designed to create rules that are easy to follow and minimize risk. Departmentally, however, certain policies are interpreted differently, causing the rules to be more rigid than they are intended to be.
 
@@ -91,6 +135,28 @@ Concerted attention on developing and supporting a culture of service for intern
 * Communicating and marketing the Government's commitment to service excellence in internal services.
 
 Of note, the Management Accountability Framework (MAF) has included a few questions about service standards in its methodology. Early results indicate that many departments with service standards do not track performance against them and that there is no common way to measure performance for similar activities across departments. As a result, there is a wide range of results for similar tasks. For example, the days required to staff an AS-01 position range from 2.3 days to 195 days, and the mean time required to repair workplace technology device (WTD) related incidents ranges from 1 to 284 hours in the 37 large departments and agencies assessed in 2015-2016. The MAF will continue to promote internal service standard indicators within its methodology. While more work is required to arrive at fully comparative results, they serve as a starting point and could support a government-wide strategy for improving service delivery for internal services.
+
+{{< reportaside >}}
+
+##### Suggestions from users
+
+###### Evaluating performance
+
+> "The problem is not in identifying the right solutions, but in identifying the right problems. Improving performance results is not just about training and behaviour; it is also about effective processes and the right tools."
+
+###### Changing departments
+
+> "A guide for transferring between departments would be a good start. We have guides for new employees and for retiring. Changing departments is more frequent."
+
+###### Security clearance screening
+
+> "At IBM, staff (is) easily able to swipe in and enter IBM offices in the foreign country they are visiting – couldn't we do the same thing for the federal government?"
+
+###### Accessing systems
+
+> "Prior to rolling out the new systems, engage the union and employees for input; test pilot systems with various users who can provide critical feedback. Ensure there are mechanisms in place for users to provide feedback."
+
+{{< /reportaside >}}
 
 ### Process overload
 

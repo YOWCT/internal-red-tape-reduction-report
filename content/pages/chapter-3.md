@@ -394,6 +394,28 @@ There are a number of mechanisms in place to safeguard taxpayers’ resources.
 
 These mechanisms range from restricted delegated approval levels to the establishment of various review committees. Participants agree that having the appropriate safeguards in place is necessary to ensure that resources are properly accounted for and disbursed in a fair and transparent manner. However, there was consensus that, in many cases, additional safeguards do not add value to the process, and that it would be appropriate to review existing approval processes to determine whether streamlining is an option.
 
+{{< reportaside >}}
+
+##### Voices of users
+
+###### One size fits all
+
+> "I want to be able to treat clients differently if they apply for just a small amount of funding or a simple project."
+
+###### Technology
+
+> "Because of the limitations of IT systems, duplicative information is being recorded."
+
+###### Decision-making processes
+
+> "We don’t highlight what our priorities are, but we tell clients they didn’t meet them. I want to be able to update clients on the status of their applications."
+
+###### Delegation of authorities
+
+> "There should be more regional decision-making involved in projects regional in scope."
+
+{{< /reportaside >}}
+
 ##### Technological systems not designed with users in mind
 
 All Working Group participants agree that the current technology was designed without a clear understanding of how the user navigates the business process, and with assumptions about the user's comfort level with technology. The result is that many users are not as "technologically savvy" as expected, and therefore tend to under-utilize the tool.

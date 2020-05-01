@@ -28,6 +28,21 @@ on behalf of our clients."
 
 > "We no longer know what our local IT does… I am not at all sure the ticket process is clear to them either… They don't seem to be aware of what ticket is theirs and what ticket is Shared Services'."
 
+{{< reportaside >}}
+
+##### Highlights
+
+* Ambiguity around roles and responsibilities
+* Increase in wait times
+* Inadequate communication
+* Lack of flexibility
+* Delays between central and regional IT staff
+* Loss of local knowledge and support
+* Finding “workarounds”
+* Calls for a client-centred IT service delivery model
+
+{{< /reportaside >}}
+
 Notwithstanding the goal of streamlining IT services under the umbrella of Shared Services Canada, these stories illustrate that the new system is not without difficulties. Perspectives from clients and IT Helpdesk technicians capture issues from
 both sides of the service desk, including increases in wait times, inadequate communication between IT support and clients, and lack of flexibility in problem-solving.
 
@@ -90,6 +105,17 @@ Feedback highlights the lengthy internal approval process chain required before 
 In some instances, the approvals seemed to sit in the office of senior management (ADM or DM) for so long that it either became too late to book the travel or that the early bird rates for tickets and events were missed:
 
 > "In many cases, approval is granted 2-3 days before the departure date, in which case the flights are now almost double the cost that they would have been 2-3 weeks prior to the required travel date."
+
+{{< reportaside >}}
+
+##### Highlights
+
+* Too many levels of approval
+* Cumbersome process resulting in time delays and increased travel costs
+* Difficulties navigating the STS portal
+* Deficiencies in video and web-based conferencing
+
+{{< /reportaside >}}
 
 Feedback on the Shared Travel System (STS) pinpoints irritants in each part of the process of making travel arrangements for Government of Canada business, from securing approvals to making bookings and submitting travel claims. Concerns focus on the negative impacts and extra costs associated with the new system. The following comments express the
 views shared widely by those who told their stories:
@@ -189,6 +215,21 @@ Others suggest that it is still too early to draw any conclusions about the new 
 
 > "The system is still in its early stages, still new. Both supervisors and employees are exploring it and testing it out… It's still early to make a definitive assessment or evaluate a process being rolled out."
 
+{{< reportaside >}}
+
+##### Highlights
+
+* Challenges drafting SMART objectives
+* Inconsistencies applying rating grid
+* Negative impact on staff morale
+* Questions about its ability to address broader issues that affect performance, including culture, processes, tools and people management
+* Cumbersome PSPM App
+* Need for more/better training
+* Need for more people management support
+* Need for revisions to PSPM App
+
+{{< /reportaside >}}
+
 However, many of the stories identify irritants throughout the performance evaluation process, from setting up and maintaining an employee's Performance Management Agreement (PMA), to the online system for documenting performance. These irritants have also had a notable impact on staff morale.
 
 Some employees identify issues around setting SMART (specific, measurable, attainable, relevant, trackable/time-bound) work objectives, especially those that can be achieved, tracked and measured over the duration of the employee's PMA:
@@ -267,7 +308,17 @@ Moving to a new department or agency is something that most federal public serva
 Therefore, it is not surprising that, in their red tape stories, public servants identify key irritants in the
 process of changing departments on a temporary or permanent basis. While several steps are involved in moving to a new department or agency – from obtaining a new security clearance to transferring an employee's pay file and everything in between – many public servants simply do not know what they need to do, or where to begin:
 
-> "The issue is really around the lack of information available during the onboarding/transfer process. Each group does its thing – HR, Compensation, Security, IT, IM, Credentials, and so on. But you are lucky if you get someone to guide you through the whole onboarding and transfer in/out process."
+> "The issue is really around the lack of information available during the onboarding/transfer process. Each group does its thing – HR, Compensation, Security, IT, IM Credentials, and so on. But you are lucky if you get someone to guide you through the whole onboarding and transfer in/out process."
+
+{{< reportaside >}}
+
+##### Highlights
+
+* Public servants do not know what steps they need to take, or the order in which they need to take them, when moving to a new department or agency
+* Where there is an onboarding process in place, it varies from one department to the next
+* Feedback suggests the need for clear guidance around onboarding, such as guides or checklists
+
+{{< /reportaside >}}
 
 Public servants report inconsistencies when transferring their security clearance to a new department or agency. The transfer is a smooth one for some, while others report having to undergo security checks despite holding a valid security clearance, even when the new position requires the same or a lower level of security:
 
@@ -343,6 +394,24 @@ Security screening is a task that virtually every individual has to complete, wh
 > "I like the idea of cutting red tape, but these are areas where the red tape actually is the value added. The extra steps and verifications are the service."
 
 While still early, the introduction of a new security screening standard (October 2014) and new measures for electronic fingerprinting (July 2014) seek to address some of the issues identified by public servants in their security screening stories.
+
+{{< reportaside >}}
+
+##### Highlights
+
+Issues around security screening occur when:
+
+* Transferring to a new department or agency
+* Having lived abroad
+* Filling in/saving forms
+* Visiting OGDs
+
+Feedback underscores the need for clear communication:
+
+* A DSO community of practice to discuss issues/best practices
+* Clear guidance for applicants throughout the security screening process
+
+{{< /reportaside >}}
 
 A key irritant identified by public servants is the inconsistency across departments and agencies around the transfer process when changing jobs. Many public servants report not having any issues transferring their security clearance to a new department or agency:
 
@@ -453,6 +522,17 @@ At other times, employees simply continue to use their existing myKEY:
 
 > "I have worked in seven different departments and I have always just used the same myKEY."
 
+{{< reportaside >}}
+
+##### Highlights
+
+* Issues with myKEY occur when employees change jobs
+* Lack of clarity about how to navigate the system and where to go for help
+* Lengthy time delays can occur in obtaining a new myKEY
+* Time delays can also result in employees not having access to other GoC online applications
+
+{{< /reportaside >}}
+
 Many employees raise questions about why their myKEY does not just automatically follow them, like their PRI does, when they move to another department or agency:
 
 > "Why isn't there an automated transfer process if myKEY is part of our standard work tools? Why is there a transfer in the first place? Aren't we all behind the GoC firewall?"
@@ -487,6 +567,21 @@ For many employees, the introduction of new systems is a major source of frustra
 grassroots level…"
 
 > "…If a product is tested only at the level of the most secure and skilled user, then you are not listening to the needs of the largest group of users."
+
+{{< reportaside >}}
+
+##### Highlights
+
+Issues around the following:
+
+* New systems introduced with inadequate consultation of users, training, and support
+* Employee frustration, having to work with poorly-designed tools, finding workarounds, and lost time and productivity
+* Poor bandwidth
+* Non-standard software difficult to acquire
+* Blocked access to sites employees require to do their jobs
+* GCDocs downtime
+
+{{< /reportaside >}}
 
 Implementation is often accompanied by inadequate training, and a lack of support at the back end:
 

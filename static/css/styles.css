@@ -82,6 +82,22 @@ https://ottawacivictech.ca/
   margin-bottom: 1.3rem;
 }
 
+.irt-aside {
+  padding: 1.5rem;
+  padding-bottom: 0.2rem;
+  max-width: 56rem;
+  margin: 0 auto;
+  background-color: #efeff0;
+  margin-bottom: 1.3rem;  
+}
+
+#main .irt-aside h5 {
+  font-weight: bold;
+  font-size: 26px;
+  padding-bottom: 4px;
+  border-bottom: 1px solid #e2e3e5;
+}
+
 #main .irt-image {
   padding: 0.5rem;
   /* border-top: 1px solid #e2e3e5; */
