@@ -12,11 +12,12 @@ https://ottawacivictech.ca/
 #header {
   margin-top: 1.5rem;
   padding-top: 1rem;
-  padding-bottom: 1rem;
+  padding-bottom: 1.1rem;
 }
 
 #header h1 {
   font-size: 3rem;
+  line-height: 1.1;
   text-align: center;
 }
 
@@ -29,6 +30,8 @@ https://ottawacivictech.ca/
   display: block;
   font-weight: bold;
   font-size: 20px;
+  line-height: 26px;
+  margin-bottom: 0.3rem;
 }
 
 #nav {
@@ -129,4 +132,53 @@ https://ottawacivictech.ca/
 
 .irt-header-img {
   width: 100px;
+}
+
+/* Print styles */
+@media print {
+
+  #header h1 {
+    font-size: 2.4rem;
+    text-align: center;
+  }
+  
+  #header h1 a {
+    color: #212529;
+    text-decoration: none;
+  }
+
+  #header {
+    border-bottom: 1px solid #e2e3e5;
+    margin-bottom: 1.3rem;
+  }
+
+  #main blockquote {
+    border-top: none;
+    border-bottom: none;
+    border-right: none;
+    border-left: none;
+  }
+
+  .irt-aside {
+    border: 1px solid #e2e3e5;
+  }
+
+  #main .irt-aside h5 {
+    font-weight: bold;
+    font-size: 26px;
+    padding-bottom: 0;
+    border-bottom: none;
+  }
+
+}
+
+/* Media queries */
+@media (max-width: 767px) {
+  #header h1 {
+    font-size: 2rem;
+  }
+
+  #header {
+    margin-top: 0;
+  }
 }
