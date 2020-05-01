@@ -17,6 +17,18 @@ https://ottawacivictech.ca/
 
 #header h1 {
   font-size: 3rem;
+  text-align: center;
+}
+
+#header h1 a {
+  color: #212529;
+}
+
+#header .site-pre-title {
+  text-align: center;
+  display: block;
+  font-weight: bold;
+  font-size: 20px;
 }
 
 #nav {
@@ -93,4 +105,12 @@ https://ottawacivictech.ca/
 
 #main blockquote {
   padding-left: 2rem;
+}
+
+.irt-header-img-container {
+  text-align: center;
+}
+
+.irt-header-img {
+  width: 100px;
 }
