@@ -4,8 +4,8 @@ slug: "chapter-4"
 date: 2020-04-25T21:19:18-07:00
 draft: false
 sec: 5
-summary: ""
-images: []
+summary: "The Tiger Team adopted new approaches and new tools to identify problems and design solutions. Through social media and in-person dialogue, as well as surveys, the team journeyed with public servants across the country to unravel internal red tape. Along the way, commonly held assumptions were challenged and new insights were gained."
+images: ["/img/001.jpg"]
 menu:
   chapters:
     weight: 5

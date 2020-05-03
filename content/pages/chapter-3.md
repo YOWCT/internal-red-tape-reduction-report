@@ -4,8 +4,8 @@ slug: "chapter-3"
 date: 2020-04-25T21:19:16-07:00
 draft: false
 sec: 4
-summary: ""
-images: []
+summary: "In Phase II, TBS established interdepartmental working groups comprised of both “rule makers” and “rule followers” to perform a deep dive into three areas: procurement, staffing, and internal processes for grants and contributions. Working Group participants were able to expose the root causes of internal red tape in each area and design possible solutions to move forward."
+images: ["/img/001.jpg"]
 menu:
   chapters:
     weight: 4

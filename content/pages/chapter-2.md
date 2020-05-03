@@ -4,8 +4,8 @@ slug: "chapter-2"
 date: 2020-04-25T21:19:14-07:00
 draft: false
 sec: 3
-summary: ""
-images: []
+summary: "A key element of the Engagement Phase was to listen to public servants at the working level about their encounters with internal red tape in order to identify common irritants. A variety of engagement channels were used to reach as many public servants as possible, in departments and agencies, communities of practice and networks. Through these efforts, the Tiger Team reached more than 2,000 public servants."
+images: ["/img/001.jpg"]
 menu:
   chapters:
     weight: 3

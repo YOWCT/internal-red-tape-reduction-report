@@ -4,8 +4,8 @@ slug: "annex-3"
 date: 2020-04-25T21:19:28-07:00
 draft: false
 sec: 8
-summary: ""
-images: []
+summary: "The findings from the Internal Red Tape Reduction initiative highlight poor client service as a major irritant for many public servants in their day-to-day work lives. A Service Strategy for Internal Services would guide the adoption of service excellence in internal services, and help to anchor it in the day-to-day culture of the federal government."
+images: ["/img/001.jpg"]
 menu:
   chapters:
     weight: 8

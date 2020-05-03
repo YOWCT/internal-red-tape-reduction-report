@@ -4,8 +4,8 @@ slug: "annex-1"
 date: 2020-04-25T21:19:23-07:00
 draft: false
 sec: 6
-summary: ""
-images: []
+summary: "The methodology of the internal red tape reduction project was centred around using design-thinking principles in order to have user experiences to help departments across the federal public service solve red tape issues being encountered in their day-to-day jobs."
+images: ["/img/001.jpg"]
 menu:
   chapters:
     weight: 6

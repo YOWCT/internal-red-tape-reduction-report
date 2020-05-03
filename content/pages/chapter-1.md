@@ -4,8 +4,8 @@ slug: "chapter-1"
 date: 2020-04-25T21:19:11-07:00
 draft: false
 sec: 2
-summary: ""
-images: []
+summary: "In June 2013, Blueprint 2020 was launched, setting in motion an unprecedented engagement exercise with public servants about the future of the public service of Canada, with “the goal of ensuring that it remains a world class institution.” A small multi-disciplinary Tiger Team to engage public servants using social media and roundtables to identify “some of the biggest specific irritants.”"
+images: ["/img/001.jpg"]
 menu:
   chapters:
     weight: 2

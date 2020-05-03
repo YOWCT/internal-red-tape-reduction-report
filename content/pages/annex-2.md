@@ -4,8 +4,8 @@ slug: "annex-2"
 date: 2020-04-25T21:19:25-07:00
 draft: false
 sec: 7
-summary: ""
-images: []
+summary: "Snapshots of internal red tape stories from public servants in the Government of Canada, including: Getting IT help, The trouble with travel, Evaluating performance, Changing departments, Security clearance screening, Navigating myKEY, and Accessing systems."
+images: ["/img/001.jpg"]
 menu:
   chapters:
     weight: 7
