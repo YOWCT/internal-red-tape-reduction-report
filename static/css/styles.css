@@ -30,12 +30,12 @@ https://ottawacivictech.ca/
   display: block;
   font-weight: bold;
   font-size: 20px;
-  line-height: 26px;
+  line-height: 24px;
   margin-bottom: 0.3rem;
 }
 
 #nav {
-  padding-top: 1.0rem;
+  padding-top: 1.25rem;
   padding-bottom: 1.0rem;
   background-color: #efeff0;
   border-color: #e2e3e5;
