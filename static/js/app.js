@@ -32,7 +32,7 @@ app.hideAllImages = function () {
   $(".irt-image .irt-toggle-image").text(app.text.showImage);
   $(".irt-image").data("target-visible", "0");
   $(".irt-image").addClass("d-print-none");
-  Cookies.set("showImages", "0");
+  Cookies.set("showImages", "0", { expires: 30 });
 };
 
 app.showAllImages = function () {
@@ -40,7 +40,7 @@ app.showAllImages = function () {
   $(".irt-image .irt-toggle-image").text(app.text.hideImage);
   $(".irt-image").data("target-visible", "1");
   $(".irt-image").removeClass("d-print-none");
-  Cookies.set("showImages", "1");
+  Cookies.set("showImages", "1", { expires: 30 });
 };
 
 $(function () {
@@ -49,13 +49,10 @@ $(function () {
     // First run, so hide all images and set the cookie to 0
     // (Cookies are set inside the hideAllImages & showAllImages functions)
     app.hideAllImages();
-    // console.log("initial load, hiding images");
   } else if (Cookies.get("showImages") === "0") {
     app.hideAllImages();
-    // console.log("cookie setting = hiding images");
-  } else {
-    // console.log("cookie setting = showing images");
   }
+  // Otherwise, show the images (default HTML behaviour)
 
   // Button click assignments:
   $(".irt-print-current").on("click", function (e) {
