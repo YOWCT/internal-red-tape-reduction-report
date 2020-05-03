@@ -1,0 +1,31 @@
+<section id="nav" class="d-print-none">
+
+  <div class="container">
+    <div class="row">
+      <div class="col-md-2">
+        <a href="/" class="btn btn-sm btn-outline-primary">&laquo; Home</a>
+      </div>
+      <div class="col-md-10 irl-page-tools-top  text-right">
+        {{ partial "pagetools.html" . }}
+      </div>
+    </div>
+  </div>
+
+</section>
+
+<section id="main">
+  <div class="container">
+
+  {{ range site.Pages.ByParam "sec" }}
+    {{ if .Params.sec -}}
+
+      <div class="irt-all-chapter">
+        <h2 class="section-heading" id="{{ .Title | urlize }}">{{ .Title }}</h2>
+        {{ .Content }}
+      </div>
+
+    {{ end }}
+  {{ end }}
+
+  </div>
+</section>
