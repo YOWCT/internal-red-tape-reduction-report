@@ -6,6 +6,7 @@
 
     {{ if and (gt .WordCount 600 ) }}
       <aside class="d-print-none">
+        <p class="sr-only">Chapter table of contents</p>
         {{.TableOfContents}}
       </aside>
     {{ end }}
