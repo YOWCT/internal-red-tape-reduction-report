@@ -54,6 +54,11 @@ $(function () {
   }
   // Otherwise, show the images (default HTML behaviour)
 
+  // If the "print" location hash is already present, bring up a print dialog:
+  if (window.location.hash === "#print") {
+    window.print();
+  }
+
   // Button click assignments:
   $(".irt-print-current").on("click", function (e) {
     window.print();
