@@ -19,15 +19,15 @@ Design-thinking is often applied to issues that are not well defined at the outs
 
 #### The two phases of the project
 
-The project was broken down into two phases: Phase 1 – the engagement phase – set out to explore, examine and expose user experiences with red tape; and Phase 2 focused on examining irritants that were exposed during the first phase and establishing interdepartmental working groups to take a deep dive into the causes of red tape and to co-design better business solutions to those problems.
+The project was broken down into two phases: Phase I – the engagement phase – set out to explore, examine and expose user experiences with red tape; and Phase II focused on examining irritants that were exposed during the first phase and establishing interdepartmental working groups to take a deep dive into the causes of red tape and to co-design better business solutions to those problems.
 
 ##### Broad Engagement
 
-Phase 1 of the project began in November 2014 and ran for six months, ending in May 2015. During this time, the Tiger Team put together a strong engagement strategy to gather personal red tape stories. To that end, the team employed various methods of engagement, such as leveraging the online community with the use of GC 2.0 tools and conducting workshops, presentations and anonymous surveys.
+Phase I of the project began in November 2014 and ran for six months, ending in May 2015. During this time, the Tiger Team put together a strong engagement strategy to gather personal red tape stories. To that end, the team employed various methods of engagement, such as leveraging the online community with the use of GC 2.0 tools and conducting workshops, presentations and anonymous surveys.
 
 **Explore:** The engagement plan was structured using the heartbeat model, which meant that collaboration had to mimic the beat of a heart or a pulse to ensure that conversation was ongoing and lively, both online and in person.
 
-Under the name “Blueprint 2020: Reducing Internal Red Tape Initiative,” the team started by first building rapport and trust with public servants on GCconnex. It introduced the team, as well as the project and its approach. The engagement plan for Phase 1 began with the Tiger Team posting weekly open-ended “Freaky Friday” questions on non-work-related topics that gave the community a platform to actively share something about themselves and build trust within the group. The team then proceeded to invite public servants to share their stories of dealing with administrative rules and processes in their day-to-day jobs.
+Under the name “Blueprint 2020: Reducing Internal Red Tape Initiative,” the team started by first building rapport and trust with public servants on GCconnex. It introduced the team, as well as the project and its approach. The engagement plan for Phase I began with the Tiger Team posting weekly open-ended “Freaky Friday” questions on non-work-related topics that gave the community a platform to actively share something about themselves and build trust within the group. The team then proceeded to invite public servants to share their stories of dealing with administrative rules and processes in their day-to-day jobs.
 
 Meanwhile, the team was conducting outreach via presentations and workshops to various departments and communities of practice to discuss red tape encountered in day-to-day work and encouraged employees to come forward and share their red tape stories, either on GCconnex or by filling out an anonymous online survey. Through user participation in presentations and workshops, the Tiger Team was able to gather stories and build a repository of red tape irritants.
 
@@ -190,7 +190,7 @@ With the help of personas, the group on staffing completed an “innovation flow
 
 ### Tiger Team members and workshop participants
 
-#### Phase 1 Tiger Team
+#### Phase I Tiger Team
 
 * Jean Kunz – Director
 * Sage Cram – User-centered Design Specialist
@@ -200,7 +200,7 @@ With the help of personas, the group on staffing completed an “innovation flow
 * Neetesha Patel – Junior Analyst
 * Lori Steele – Graphic Designer
 
-#### Phase 2 Tiger Team
+#### Phase II Tiger Team
 
 * Anne Casault – Senior Director
 * Sage Cram – Lead Facilitator – Low Dollar Value Procurement stream
@@ -214,7 +214,7 @@ With the help of personas, the group on staffing completed an “innovation flow
 * Lori Steele – Graphic Designer
 * Marie Blythe-Hallman – Senior Advisor and Lead Writer
 
-#### Webcast 2 Moderator and Todd-Cast Sessions
+#### Webcast Moderator and Todd-Cast Sessions
 
 * Todd Lyons
 
