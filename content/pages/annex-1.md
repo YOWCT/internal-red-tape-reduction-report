@@ -208,7 +208,7 @@ With the help of personas, the group on staffing completed an “innovation flow
 * Blaise Hebert – Lead Facilitator – Staffing stream
 * Luisa Wang – Senior Analyst – Staffing stream
 * Joel Bourgeoys – Co-facilitator – Staffing stream
-* Stacey lleleji – Lead Facilitator – Grants and Contributions stream
+* Stacey Ileleji – Lead Facilitator – Grants and Contributions stream
 * Neetesha Patel – Co-facilitator – Grants and Contributions stream
 * Denise Wild – Senior Analyst – Grants and Contributions stream
 * Lori Steele – Graphic Designer
