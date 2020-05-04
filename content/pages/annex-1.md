@@ -77,17 +77,21 @@ The following passages describe the tools used in each stage. For a more detaile
 
 #### Visioning and scoping 
 
-##### Objectives:
+##### Objectives
 
 The goal was to gain a clear understanding of the nature of the issue being examined and the goals of the project.
 
-##### Tools:
+##### Tools
 
-**Future backwards:** Entails understanding the current status of the project and envisioning its potential destination (both best and worst case scenarios). The end results combine the participants’ efforts to scope out the project, identify key indicators that would lead them toward success, and surface some of their own assumptions around the project and its outcomes.
+###### Future backwards
+
+Entails understanding the current status of the project and envisioning its potential destination (both best and worst case scenarios). The end results combine the participants’ efforts to scope out the project, identify key indicators that would lead them toward success, and surface some of their own assumptions around the project and its outcomes.
 
 More information on the “Future Backwards” workshop is available at: <http://cognitive-edge.com/methods/the-future-backwards/>
 
-**Process mapping:** Once the group envisioned and scoped out the project and brainstormed what success and failure looked like, they started creating a process – or service – map. Essentially, the group’s main task was to visualize all of the tasks and touchpoints that a user would encounter while trying to achieve their desired outcome.
+###### Process mapping
+
+Once the group envisioned and scoped out the project and brainstormed what success and failure looked like, they started creating a process – or service – map. Essentially, the group’s main task was to visualize all of the tasks and touchpoints that a user would encounter while trying to achieve their desired outcome.
 
 * **Note to reader:** This exercise is best accomplished by writing down your ideas on sticky notes and putting them up on a board or a wall. This way, the stickies can be moved around at your leisure.
 
@@ -101,11 +105,15 @@ More information on the “Future Backwards” workshop is available at: <http:/
 
 {{< reportimage title="Process mapping refinement" src="064.jpg" alt="" >}}
 
-**Stakeholder mapping:** After gaining an understanding of the process, the objective was then to scope out the current status of the process by identifying all of the players or stakeholders involved in making their system work.
+###### Stakeholder mapping
+
+After gaining an understanding of the process, the objective was then to scope out the current status of the process by identifying all of the players or stakeholders involved in making their system work.
 
 * **Note to reader:** It is important to brainstorm as many direct and indirect players as possible that are relevant to the process. Once each stakeholder has been identified, take the exercise one step further by drawing arrows to show the relationships among the various stakeholders. Once arrows have been drawn to link the various stakeholders, the next step is to identify their respective roles and responsibilities and their supporting infrastructure (e.g., policies, functions, procedures).
 
-**Task decomposition:** Once the foundation of the process was built, each team proceeded to assign tasks/roles to each step and stakeholder identified in the system.
+###### Task decomposition
+
+Once the foundation of the process was built, each team proceeded to assign tasks/roles to each step and stakeholder identified in the system.
 
 * **Note to reader:** Starting by fleshing out the context behind the process, the objective of this task is to identify the underlying drivers – or the cause and consequence – for each user within the process. As previously mentioned, conducting outside research will strengthen the results.
 
@@ -115,7 +123,9 @@ More information on the “Future Backwards” workshop is available at: <http:/
 
 * It is recommended that this workshop be split into two sessions because there is a lot of content to flesh out. Therefore, the first workshop focuses on the drivers and the following workshop tackles the results. Once enough content is collected to illustrate the accompanying drivers and associated challenges, it will be time to begin analyzing some of their impacts. This analysis will lead us to the next workshop, which deals with root cause analysis.
 
-**Root cause analysis:** Following the task decomposition, participants in the staffing stream moved on to identify the root causes of each of the challenges found within the most painful tasks/steps. The objective was to uncover the causes of each of the major challenges that were previously identified.
+###### Root cause analysis
+
+Following the task decomposition, participants in the staffing stream moved on to identify the root causes of each of the challenges found within the most painful tasks/steps. The objective was to uncover the causes of each of the major challenges that were previously identified.
 
 * **Note to reader:** The exercise should focus on the most likely and the most impactful challenges in the user’s experience. Note that these may change after the user interviews and that the step may have to be revisited.
 
@@ -125,11 +135,15 @@ More information on the “Future Backwards” workshop is available at: <http:/
 
 * More information on the “five whys” method is available at: <https://www.isixsigma.com/tools-templates/cause-effect/determine-root-cause-5-whys/>
 
-**User interviews:** All groups conducted interviews with users. The objective was to capture the overall experience that users have had with the associated process and the elements surrounding the ongoing research. Working with the project sponsor, each group identified users who had a varying range of familiarity with the process or service within its scope. In preparation for the interviews, each group created a user interview guide by reviewing all the questions that surfaced from all the previous steps.
+###### User interviews
+
+All groups conducted interviews with users. The objective was to capture the overall experience that users have had with the associated process and the elements surrounding the ongoing research. Working with the project sponsor, each group identified users who had a varying range of familiarity with the process or service within its scope. In preparation for the interviews, each group created a user interview guide by reviewing all the questions that surfaced from all the previous steps.
 
 * **Note to reader:** It is important to build a question narrative that flows well, cycling from “What?” to “Why?” to “How?” Having a copy of the research artifacts (process map, stakeholder map and root cause analysis) on hand for reference is useful for note-taking.
 
-**Journey mapping:** Some groups also used a “journey mapping” workshop to capture the user’s experience.
+###### Journey mapping
+
+Some groups also used a “journey mapping” workshop to capture the user’s experience.
 
 * **Note to reader:** The main difference between this mapping technique and interview questions is that the former captures the user’s experience in a visual way. It uses the initial process map to plot out the specific steps in the journey and requires the interviewer to prompt the user to convey the different emotions that users can feel during each step of the established process. This way, one can identify how each user feels along the way. It shows the interviewers what steps in a process are required, redundant or complex, and allows those analyzing the business process to determine where effective change could be made. More information on the “user interview guide” and “journey mapping” are available at: <http://diytoolkit.org/tools/interview-guide-2/> and <http://uxmastery.com/how-to-create-a-customer-journey-map/>
 
@@ -137,16 +151,20 @@ More information on the “Future Backwards” workshop is available at: <http:/
 
 Based on an understanding of the process, stakeholders, root causes and users, the goal was to design solutions to improve the process in question. This was done by analyzing interview results, building personas and exploring options.
 
-#### Tools
+##### Tools
 
-**Interview analysis:** The group reviewed all the data from the interviews and/or journey mapping exercises and conducted an analysis to extract potential insights with a view to refining their existing research.
+###### Interview analysis
+
+The group reviewed all the data from the interviews and/or journey mapping exercises and conducted an analysis to extract potential insights with a view to refining their existing research.
 
 * **Note to reader:** An easy way for the group to sift through a large amount of data is by using an affinity mapping exercise. In order to do this, participants will write all the answers from the interviews on sticky notes and sort them by overarching themes. Each sorted pile should be identified by a specific challenge or experience that was then cross-referenced with the original challenges uncovered.
 
 * The group should end up with a defined list of experiences, known challenges and user insights. All of these will add to the overall context and help in the subsequent research.
 More information on “affinity mapping” can be found here: <http://asq.org/learn-about-quality/idea-creation-tools/overview/affinity.html>
 
-**Personas:** Some of the working groups developed solutions with the help of a persona.
+###### Personas
+
+Some of the working groups developed solutions with the help of a persona.
 
 * **Note to reader:** Personas are research-based descriptions of users. They are crafted based on the interviews that were conducted earlier. Each persona should capture the various needs, responsibilities and levels of comfort with the process and known challenges.
 
@@ -156,9 +174,13 @@ More information on “affinity mapping” can be found here: <http://asq.org/le
 
 In addition, two groups (LDV procurement and staffing) applied the following tools to explore solutions types:
 
-**Six hats:** The group on LDV procurement applied this tool to think through various perspectives. The objective was to take one topic and look at it from six different perspectives. This steered the group toward a structured and objective conversation.
+###### Six hats
 
-**Innovation flow chart:** With the help of personas, the group on staffing completed an “innovation flowchart” exercise. This tool helped participants unpack the necessary factors for success before fleshing out a plan of action.
+The group on LDV procurement applied this tool to think through various perspectives. The objective was to take one topic and look at it from six different perspectives. This steered the group toward a structured and objective conversation.
+
+###### Innovation flow chart
+
+With the help of personas, the group on staffing completed an “innovation flowchart” exercise. This tool helped participants unpack the necessary factors for success before fleshing out a plan of action.
 
 * **Note to reader:** In the last step of activity, the group must generate ideas and explore solution types for the most impactful challenges. From there, the next step is unpacking the risks, user needs and success factors with the help of the personas created earlier in the process. To this end, the group will start generating new ideas to change or improve the user experience. A few workshop designs could help in this regard. The “Six hats” exercise will motivate the group to think through various perspectives. Once several strong ideas have been generated to work with, it is suggested that an “innovation flowchart” exercise be completed. With the help of the personas, the facilitator can walk the group through the challenging task of unpacking the necessary factors for success, and start fleshing out a plan of action.
 
