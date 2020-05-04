@@ -101,9 +101,9 @@ Once the group envisioned and scoped out the project and brainstormed what succe
 
 * Completing this activity will yield the first draft of the chosen process or service and a series of interview questions. It is important to note that conducting outside research, such as literary reviews, service audits and user interviews, will refine this output throughout the process.
 
-{{< reportimage title="Process mapping sticky notes" src="063.jpg" alt="" >}}
+{{< reportimage title="Process mapping sticky notes" src="063.jpg" alt="A set of Post-It notes on a table, with various actors written on them in Sharpie." >}}
 
-{{< reportimage title="Process mapping refinement" src="064.jpg" alt="" >}}
+{{< reportimage title="Process mapping refinement" src="064.jpg" alt="Post-It notes laid out on a large piece of paper, with arrows pointing from one to another and sometimes back again in small loops." >}}
 
 ###### Stakeholder mapping
 

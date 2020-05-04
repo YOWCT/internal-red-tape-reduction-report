@@ -77,11 +77,11 @@ Not including internal departmental policies and guidance, there are over 35 dif
 
 In general, procurement process steps are similar among departments and are already lean. Participants identified 11 common steps for a LDV service contract procurement, entitled “The Procurement Journey” In Service Design (Figure 7). That said, an examination of the cost to a department of an LDV service contract in 2013 suggests that far too much time and effort is spent on implementing this type of contract. 
 
-{{< reportimage title="Step 1: Identify Need" src="022-1.jpg" alt="" >}}
+{{< reportimage title="Step 1: Identify Need" src="022-1.jpg" alt="An excerpt from a journey map, showing the step identify needs and to contact a procurement officer." >}}
 
 Using Purchasing Activity Report (PAR) data as well as estimated time (touch time and cycle time as per the Lean method) provided by participating departments, the cost (in $ and FTE time) of an average service contract in a department is as follows:
 
-{{< reportimage title="Figure 4: Key Finding about the Average LDV Service Contract in a Department" src="022-2.jpg" alt="" >}}
+{{< reportimage title="Figure 4: Key Finding about the Average LDV Service Contract in a Department" src="022-2.jpg" alt="A chart of the key findings for an Average LDV service contract: 7 people, 8 days touch time, 15 weeks to complete, and 39 documents produced. The average contract $ value is $4846.99 and the cost to contract is $1846.00." >}}
 
 #### Root causes
 
@@ -129,13 +129,13 @@ While most transactions and documents are paper-based (among the participating d
 
 The Tiger Team is aware that Public Services and Procurement Canada (PSPC) is currently working on developing an Electronic Procurement Solution (EPS), or e-procurement, which, once fully rolled out, is expected to streamline the procurement process using a single portal. The e-procurement system would be designed to support a procurement request from the needs identification phase through to contract award, with built-in templates and audit records, and to act as a single source of truth for procurement in the Government of Canada and as a single source of disclosure for all provincial, municipal and federal awards. With this being a technological solution, it will be important that it receive ample user testing and sufficient time and resources dedicated to its implementation.
 
-{{< reportimage title="Figure 5: Procurement Officer Persona" src="026.jpg" alt="" >}}
+{{< reportimage title="Figure 5: Procurement Officer Persona" src="026.jpg" alt="A persona of Matt, a procurement officer saying “Help me help you!” He needs to understand business requirements and project timelines, and is challenged by the lack of standard simple-to-use templates, policies, process, and approach; risk tolerance; being overworked and overwhelmed, and more." >}}
 
-{{< reportimage title="Figure 6: Manager Persona" src="027.jpg" alt="" >}}
+{{< reportimage title="Figure 6: Manager Persona" src="027.jpg" alt="A persona of Mina, a manager saying “Why does it have to be so complicated?” She needs to understand all the steps in the process and timelines, and is challenged by the amount of information to go through (often not in plain language) and “It depends” being a too common response to questions." >}}
 
-{{< reportimage title="Table 1: Acquired Services and Assets Current Policy Suite" src="028.jpg" alt="" >}}
+{{< reportimage title="Table 1: Acquired Services and Assets Current Policy Suite" src="028.jpg" alt="A table of the Acquired Services and Assets current policy suite, listing existing mandatory instruments across a range of policies, existing guidelines, and other policy instruments." >}}
 
-{{< reportimage title="Figure 7: The Procurement Journey in Service Design" src="029.jpg" alt="" >}}
+{{< reportimage title="Figure 7: The Procurement Journey in Service Design" src="029.jpg" alt="The procurement journey in service design, mapped from identifying a need, to requirements, to documents, to determining the method of supply, to approval, to implementing the method of supply, to selection of a contractor, to verification of credentials, to awarding the contract, to managing the contract, to closeout. On average: 15 weeks." >}}
 
 ### Staffing stream findings
 
@@ -171,7 +171,7 @@ The Public Service Commission (PSC) has the mandate to promote and safeguard mer
 
 The Working Group collaboratively mapped out the steps for an Internal Advertised Staffing Process (Figure 8) with a National Area of Selection. A full-size version of the staffing process depicted to the left is available at the end of this section. 
 
-{{< reportimage title="Internal Staffing Process" src="032.jpg" alt="" >}}
+{{< reportimage title="Internal Staffing Process (excerpt)" src="032.jpg" alt="A segment at the beginning of the Internal Staffing Process, excerpted from Figure 8." >}}
 
 On average, there are 50 to 75 steps in the internal staffing process, amounting to an average of 40 weeks to complete. Figure 8 provides the complete mapping of the Internal Staffing Process. As shown in the table below, many of the processes can be simplified through Lean methods.
 
@@ -194,7 +194,7 @@ Staffing is a complex policy area governed by a mix of rules ranging from legisl
 
 One such step is the assessment process. Here, candidates are first assessed through their application, and then issued a written exam, followed by an oral exam, reference checks, and an interview. A great deal of discussion within the Working Group focused on why there needs to be so many layers of assessment, and whether this sequential, step-by-step approach is the best way to evaluate candidates or whether more global assessments would be more effective. The managers interviewed also stated that they would like to further explore the use of a candidate’s past performance (e.g., performance management results) or on-the-job observations (e.g., in cases where someone has been acting in a position) to either replace or supplement traditional assessment methods.
 
-{{< reportimage title="Legislative and Policy Framework for Staffing" src="033.jpg" alt="" >}}
+{{< reportimage title="Legislative and Policy Framework for Staffing" src="033.jpg" alt="The Legislative and Policy Framework for Staffing, totalling 35 instruments across acts, regulations, orders, and PSC or TBS policy instruments." >}}
 
 ##### Lack of clarity about available tools and insufficient infrastructure
 
@@ -301,11 +301,11 @@ At the same time, departments are working to redesign their own organizational s
 
 Each of these projects offers an opportunity to apply the learnings gathered through the Internal Red Tape Reduction Initiative and to shift the incentives in the system to effect real behaviour change and, ultimately, strike the appropriate balance between control and the provision of the level and type of service that clients expect, including strategic advice.
 
-{{< reportimage title="Figure 8: Internal Staffing Process" src="040.jpg" alt="" >}}
+{{< reportimage title="Figure 8: Internal Staffing Process" src="040.jpg" alt="The Internal Staffing Process, mapped from start to finish. It includes 75 distinct steps that require actions from the hiring manager, the HR advisor, the HR assistant, the candidate, and a variety of other groups in a complex sequence." >}}
 
-{{< reportimage title="Table 2: Staffing of Common Positions across the Public Service" src="041.jpg" alt="" >}}
+{{< reportimage title="Table 2: Staffing of Common Positions across the Public Service" src="041.jpg" alt="A statistical table showing the number of AS-01 internal and external advertised processes in the last 3 years (by department)." >}}
 
-{{< reportimage title="Appointments to and within the PS" src="042.jpg" alt="" >}}
+{{< reportimage title="Appointments to and within the PS" src="042.jpg" alt="A statistical table showing appointments to and within the public service, alongside staffing activities including promotions, lateral and downward movements, and acting appointments." >}}
 
 ##### Table 3: List of Staffing-Related Acts, Regulations and Central Agency Policy Instruments
 
@@ -374,7 +374,7 @@ Projects funded through federal G&C agreements are diverse and have a direct imp
 
 The Tiger Team found that, in participating departments, every application, regardless of size, complexity, or history with the department, is assessed in exactly the same manner, with the same level of scrutiny. However, departments have been moving to a more risk-based approach, as requested by the policy on transfer payments. Canadian Heritage appears to be the most advanced in this regard, with a “triage” system in place that is applied upon receipt of the application in order to assess its complexity and the amount of time it will likely take to move through the process. Some of the participating departments indicated that a triage system could assist them in streamlining their process, and that they would be making a proposal to their senior management.
 
-{{< reportimage title="Step 2: Program Officer completes Triage" src="046.jpg" alt="" >}}
+{{< reportimage title="Step 2: Program Officer completes Triage (excerpt)" src="046.jpg" alt="An excerpt from the Grants and Contributions process map, with a program officer saying “It would be great if GCIMS would provide only necessary information, in order to make a decision.”" >}}
 
 #### Root causes
 
@@ -382,7 +382,7 @@ The Tiger Team found that, in participating departments, every application, rega
 
 There are a number of mechanisms in place to safeguard taxpayers’ resources.
 
-{{< reportimage title="Step 7: Regional Review Committee and Step 8: Secretariat Review" src="047.jpg" alt="" >}}
+{{< reportimage title="Step 7: Regional Review Committee and Step 8: Secretariat Review (excerpt)" src="047.jpg" alt="An excerpt from the Grants and Contributions process map, with the “Regional Review Committee” and “NHQ Secretariat Review” steps listed – and “More review to come…” highlighted in an overlay box." >}}
 
 These mechanisms range from restricted delegated approval levels to the establishment of various review committees. Participants agree that having the appropriate safeguards in place is necessary to ensure that resources are properly accounted for and disbursed in a fair and transparent manner. However, there was consensus that, in many cases, additional safeguards do not add value to the process, and that it would be appropriate to review existing approval processes to determine whether streamlining is an option.
 
@@ -455,14 +455,14 @@ In the long term, the Working Group recommended that those involved in determini
 
 Treasury Board of Canada Secretariat (TBS), led by the Financial Management Transformation (FMT) Team (within the Office of the Comptroller General of Canada, (OCG)), embarked on a collaborative effort with G&C organizations to develop an enterprise solution that addresses issues around four key areas: increasing financial constraints, the continuing need for transparency, efficiency gains, and service delivery improvements. Central to this initiative is a common business process model, developed in collaboration with TBS partners and formally endorsed by the G&C Assistant Deputy Minister (ADM) committee, to aid in standardizing business practices and performance measurements and encouraging information sharing across departments. It is hoped that this enterprise tool will ultimately reduce duplication, increase efficiencies and improve consistency within the area of grants and contributions across the federal government. While the focus of this group is a technology-based solution, it is hoped that the findings from the G&C Working Group will provide insights into its development.
 
-{{< reportimage title="Figure 9 – The Agriculture Journey in Service Design" src="051.jpg" alt="" >}}
+{{< reportimage title="Figure 9 – The Agriculture Journey in Service Design" src="051.jpg" alt="The Agriculture Journey in a service map, from new applications received through a variety of internal processes all the way to the applicant being notified of approval or rejection (step 16), with the applicant receiving no information about why their application may have been rejected." >}}
 
-{{< reportimage title="Figure 10 – Citizenship & Immigration Canada in Service Design" src="052.jpg" alt="" >}}
+{{< reportimage title="Figure 10 – Citizenship & Immigration Canada in Service Design" src="052.jpg" alt="The Citizenship and Immigration Grants & Contributions process in a service map, from online proposal submissions through to step 14, documenting the decision and notifying the applicant (after receiving ministerial approval, a “black hole” with no service standards)." >}}
 
-{{< reportimage title="Figure 11 – Fisheries & Oceans Journey in Service Design" src="053.jpg" alt="" >}}
+{{< reportimage title="Figure 11 – Fisheries & Oceans Journey in Service Design" src="053.jpg" alt="The Fisheries and Oceans Grants & Contributions process, from the client contacting DFO to developing a workplan, to receiving the paperwork, through a variety of internal and external review steps, to a lengthy series of internal approvals (sometimes more than 6)." >}}
 
-{{< reportimage title="Figure 12 – Canadian Heritage in Service Design" src="054.jpg" alt="" >}}
+{{< reportimage title="Figure 12 – Canadian Heritage in Service Design" src="054.jpg" alt="Canadian Heritage’s Grants & Contributions program mapped, through 16 steps handled in part through an online system." >}}
 
-{{< reportimage title="Figure 13 – Infrastructure Journey in Service Design" src="055.jpg" alt="" >}}
+{{< reportimage title="Figure 13 – Infrastructure Journey in Service Design" src="055.jpg" alt="Infrastructure Canada’s Grants & Contribution process in service design, through a variety of steps that includes a Treasury Board Submission, memos from the INFC minister to the TB minister, a project review report, and a series of approvals for each step." >}}
 
-{{< reportimage title="Figure 14 – Program Officer Persona" src="056.jpg" alt="" >}}
+{{< reportimage title="Figure 14 – Program Officer Persona" src="056.jpg" alt="A persona of Sylvia, a Grants & Contributions program officer, saying “My corporate culture and tools are not enabling me. They make my life harder!” She needs appropriate delegation levels and being able to fully leverage risk-based approaches, and tech solutions capable of managing the process. Her challenges are that she is out of the information loop: no feedback from review committees or any of the other groups involved, and she cannot provide meaningful support to the client." >}}

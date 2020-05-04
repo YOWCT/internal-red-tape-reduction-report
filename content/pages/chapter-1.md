@@ -36,6 +36,6 @@ During the webcast, public servants were asked to identify the top three areas w
 
 As shown in Figure 1, design-thinking puts users at the centre of a problem-solving process. To analyze a problem, this approach centres on understanding it from the perspective of users by listening to their points of view and developing the analysis with them. Once a problem is identified, it focuses on designing solutions with those who will be affected by the solutions instead of providing a solution for them. (See Figure 1.) The methodology for this initiative will be described in the Annex.
 
-{{< reportimage title="Figure 1: The d.school/D-School Design Thinking Process" src="007.jpg" alt="" >}}
+{{< reportimage title="Figure 1: The d.school/D-School Design Thinking Process" src="007.jpg" alt="The design thinking process: understand, observe, point of view, ideate, prototype, test." >}}
 
-{{< reportimage title="Figure 2: Engagement of Public Servants at a Glance" src="008.jpg" alt="" >}}
+{{< reportimage title="Figure 2: Engagement of Public Servants at a Glance" src="008.jpg" alt="A map of Government-Wide Engagement, fed by 2000+ public servants, 105 anonymous surveys, CSPS webcasts, 800+ comments on GCConnex, workshops, a Forum, and more across 80 organizations and 11 communities of practice." >}}

@@ -11,7 +11,7 @@ menu:
     weight: 7
 ---
 
-{{< reportimage title="Snapshot of your Internal Red Tape Stories" src="071.jpg" alt="" >}}
+{{< reportimage title="Snapshot of your Internal Red Tape Stories" src="071.jpg" alt="A title image saying “Snapshot… of your Internal Red Tape Stories” connected by a thin, twisting thread." >}}
 
 ### Snapshot: Getting IT help
 

@@ -51,13 +51,13 @@ These are a few examples that have been brought forward, among many others. A sn
 
 Complicated processes, paperwork and policies often come to mind when talking about red tape. However, the findings from Phase I tell a slightly different story (see chart of DNA of internal red tape). When public servants were asked what hinders their ability to perform their jobs, unclear direction/burdensome policy and poor client service were top causes, even ahead of process overload. In contrast to what was assumed to be the case, policy plays a lesser role in the red tape story from the public servant’s point of view. The analysis further showed that the usability of technology linked to enterprise-wide initiatives, such as the performance management portal, myKEY, and the travel portal, was viewed as a hindrance. Further, this task contributed to more types of red tape.
 
-{{< reportimage title="Chart 1: DNA of Internal Red Tape" src="010.jpg" alt="" >}}
+{{< reportimage title="Chart 1: DNA of Internal Red Tape" src="010.jpg" alt="A chart of the “DNA of Internal Red Tape”, measuring mentions of unclear direction, poor client service, process overload, policy burden, and cumbersome technology across a variety of workplace activities." >}}
 
 #### Departmental efforts to reduce internal red tape are not addressing the key issues raised by public servants
 
 In response to the Blueprint 2020 feedback, many departments had initiated internal red tape reduction exercises of their own. As the Tiger Team began cataloguing those activities, it became evident that many of the issues being worked in departments aligned with problem areas identified by public servants: procurement, staffing, internal processes and approvals. However, the solutions being proposed focused on streamlining processes (through LEAN and other methods), introducing technological solutions and producing toolkits. These initiatives were not addressing the primary pain points identified by public servants: unclear direction and poor service. Moreover, departments were working on similar problems in isolation, with limited sharing of experience and best practices.
 
-{{< reportimage title="Chart 2: Departmental Initiatives on Reducing Internal Red Tape" src="011.jpg" alt="" >}}
+{{< reportimage title="Chart 2: Departmental Initiatives on Reducing Internal Red Tape" src="011.jpg" alt="A chart of departmental initiatives to reduce internal red tape, including LEAN/process busting/streamlining, tech enablement, toolkits, or exposing and explaining." >}}
 
 #### Addressing the root causes of the irritants requires a multi-pronged approach
 
